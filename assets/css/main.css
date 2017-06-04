@@ -2742,7 +2742,7 @@
 	}
 
 	#linkedInBoilerplate{
-		font-size: .75em;
+		font-size: .8em;
 	}
 
 /* Tab */
@@ -3869,7 +3869,8 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 2em 4em 2em;
+		/*padding: 6em 2em 4em 2em;*/
+		padding: 2em 0em 0em 0em;
 	}
 
 		#footer > .inner {
